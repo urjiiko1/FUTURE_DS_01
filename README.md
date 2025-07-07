@@ -54,23 +54,31 @@ Analyze e-commerce data to identify best-selling products, sales trends and high
 
 Here are a few glimpses of the interactive dashboard, showcasing key insights and design elements! 👀🖼️
 
-![Dashboard Overview](images/dashboard_overview.png)
-_A general overview of the sales performance dashboard, summarizing key KPIs. 📈💰_
 
-![Sales by Category Breakdown](images/sales_by_category.png)
-_Detailed view of sales performance broken down by different product categories. 👚📱🏠_
+![Dashboard Overview Image](Dashboard_Overview_Image.png)
 
-![Sales Trends Over Time](images/sales_trends.png)
-_Visualizing sales trends across months or weeks to identify patterns. 📊🗓️_
+
+_A general overview of the sales performance dashboard. 📊✨_
+
+![Bar Chart - Sales by Segment](Bar%20chart%20%20.png)
+
+
+_Detailing sales performance across different customer segments. 📊👥_
+
+![Pie Chart - Sales by Category](Pie%20chart%20.png)
+
+_Illustrating the distribution of sales by product category. 🥧🛍️_
 
 
 
 ▶️✨ DASHBOARD WALKTHROUGH VIDEO 📹📊
 
+
 Want to see the dashboard in action? Click the link below for a full interactive walkthrough! You'll see how filters work and how insights come alive. 🚀🎥
 
-[Click here to watch the full video walkthrough on YouTube!](YOUR_YOUTUBE_VIDEO_LINK_HERE)
-*(Remember to replace "YOUR_YOUTUBE_VIDEO_LINK_HERE" with your actual YouTube video URL!)*
+
+[Click here to watch the full video walkthrough on YouTube!](https://youtu.be/mJiij0E_qoY?si=gdsBCJEto3Wy7UDp)
+
 
 
 
