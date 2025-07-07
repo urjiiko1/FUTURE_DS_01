@@ -36,7 +36,7 @@ Analyze e-commerce data to identify best-selling products, sales trends and high
 💻🖥️📊 TOOLS USED 🚀✨
 
 
-** Microsoft Excel: Your go-to for initial data peeking and getting things ready. 📝📊
+** Microsoft Excel: For initial data peeking and getting things ready. 📝📊
 
 ** Microsoft Power BI Desktop: The ultimate tool for data modeling, creating stunning visualizations and building that fantastic dashboard! 🌟💡
 
@@ -45,7 +45,7 @@ Analyze e-commerce data to identify best-selling products, sales trends and high
 
 📁📂📊 PROJECT FILES 📋📈
 
- `Business_Sales_Dashboard.pbix`: This is the Power BI Desktop file holding all the magic – your data model, reports, and the interactive dashboard! 📁✨
+ `Business_Sales_Dashboard.pbix`: This is the Power BI Desktop file holding all the magic –  data model, reports, and the interactive dashboard! 📁✨
 
  `Ecommerce Sales Prediction_Data.xlsx`: The raw e-commerce sales dataset that fueled all this awesome analysis! 📊📈 
 
@@ -88,7 +88,7 @@ Want to see the dashboard in action? Click the link below for a full interactive
 
 1. Top-Performing Product Categories: Electronics and Fashion consistently shone as the absolute champions, raking in the highest revenue and showing incredible market demand! 🏆👗⚡
 
-2. Sales Trends by Month/Week: My deep dive into sales over time revealed A significant peak in sales during Q4 (October-December) driven by holiday shopping and a dip in Q1. 🎄🗓️📈
+2. Sales Trends by Month/Week: Deep dive into sales over time revealed A significant peak in sales during Q4 (October-December) driven by holiday shopping and a dip in Q1. 🎄🗓️📈
 
 3. Customer Segment Performance: Premium customers contributed disproportionately to total sales, highlighting their immense value, while Occasional customers showed promising potential for growth through smart, targeted campaigns. 👑🤝💖
 
