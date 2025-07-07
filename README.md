@@ -4,6 +4,7 @@
 -----------
 
 
+
 🌟💡📈 PROJECT OVERVIEW 📊💰🛍️
 
 This repository contains the awesome deliverables for Task 1: Business Sales Dashboard from E-commerce Data, a super exciting part of my Future Interns Data Science & Analytics internship program! 🎉🥳 The main goal of this task was to dive deep into e-commerce sales data to unearth key business insights, like figuring out the best-selling products, spotting cool sales trends and identifying high-revenue categories. 🕵️‍♀️🎯
@@ -32,7 +33,6 @@ Analyze e-commerce data to identify best-selling products, sales trends and high
 
 
 
-
 💻🖥️📊 TOOLS USED 🚀✨
 
 
@@ -49,6 +49,28 @@ Analyze e-commerce data to identify best-selling products, sales trends and high
 
  `Ecommerce Sales Prediction_Data.xlsx`: The raw e-commerce sales dataset that fueled all this awesome analysis! 📊📈 
 
+
+📸✨ INTERACTIVE DASHBOARD PREVIEW 🤩📊
+
+Here are a few glimpses of the interactive dashboard, showcasing key insights and design elements! 👀🖼️
+
+![Dashboard Overview](images/dashboard_overview.png)
+_A general overview of the sales performance dashboard, summarizing key KPIs. 📈💰_
+
+![Sales by Category Breakdown](images/sales_by_category.png)
+_Detailed view of sales performance broken down by different product categories. 👚📱🏠_
+
+![Sales Trends Over Time](images/sales_trends.png)
+_Visualizing sales trends across months or weeks to identify patterns. 📊🗓️_
+
+
+
+▶️✨ DASHBOARD WALKTHROUGH VIDEO 📹📊
+
+Want to see the dashboard in action? Click the link below for a full interactive walkthrough! You'll see how filters work and how insights come alive. 🚀🎥
+
+[Click here to watch the full video walkthrough on YouTube!](YOUR_YOUTUBE_VIDEO_LINK_HERE)
+*(Remember to replace "YOUR_YOUTUBE_VIDEO_LINK_HERE" with your actual YouTube video URL!)*
 
 
 
